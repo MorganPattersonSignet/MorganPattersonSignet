@@ -6,3 +6,5 @@ I do cloud stuff, observe as I spew acronyms
 - CDK
 - python
 - probably more that ill add 
+
+
